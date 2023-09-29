@@ -9,4 +9,4 @@ file manipulation in Python and program distribution with pyinstaller.
 
 
 ### Interface
-![image](https://github.com/mavvos/NameGeneator/assets/142045914/1fc54dbb-3989-40f7-a944-693c60f8bd3b)
+![image](https://iili.io/JdxLjG2.png)
